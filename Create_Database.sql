@@ -1,14 +1,14 @@
 
 
 USE MASTER    
-GO    
+GO
 
 DROP DATABASE IF EXISTS DoctorWho    
-GO    
-    
+GO
+
 CREATE DATABASE DoctorWho    
-GO    
-    
+GO
+
 USE DoctorWho    
 GO
 

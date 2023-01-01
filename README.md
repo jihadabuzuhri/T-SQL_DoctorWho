@@ -1,4 +1,4 @@
-###SQL: Doctor Who
+### SQL: Doctor Who
 
 1. Create a DB named `DoctorWho`.
 2. Write scripts to create the above tables, keys, relationships and constraints.
