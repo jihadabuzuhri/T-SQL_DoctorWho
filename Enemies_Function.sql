@@ -22,7 +22,7 @@ BEGIN
     RETURN @EnemyList
 
 END
-
+GO
 
 
 -- Declare a variable to hold the result of the function

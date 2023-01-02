@@ -20,7 +20,7 @@ BEGIN
     -- PRINT @CompanionList
     RETURN @CompanionList
 END
-
+GO
 
 
 
