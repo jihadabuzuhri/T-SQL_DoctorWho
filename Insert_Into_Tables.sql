@@ -48,7 +48,9 @@ INSERT INTO tblEpisodeCompanion (EpisodeId, CompanionId) VALUES
 (2, 1),
 (3, 2),
 (4, 1),
-(5, 4);
+(5, 4),
+(5, 2),
+(3, 1);
 
 -- Insert 5 records into tblEpisodeEnemy
 INSERT INTO tblEpisodeEnemy (EpisodeId, EnemyId) VALUES
