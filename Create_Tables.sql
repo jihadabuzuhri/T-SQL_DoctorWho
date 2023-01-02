@@ -46,7 +46,7 @@ CREATE TABLE tblEpisode
     Title Text NOT NULL,
     EpisodeDate Date NULL DEFAULT NULL,
     AuthorId INT NOT NULL REFERENCES tblAuthor (AuthorId),
-    DoctorId VARCHAR(250) NOT NULL REFERENCES tblDoctor (DoctorId),
+    DoctorId VARCHAR(250) NULL REFERENCES tblDoctor (DoctorId),
     Notes Text NULL DEFAULT NULL
 );
 GO
